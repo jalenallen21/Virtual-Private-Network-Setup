@@ -1,9 +1,9 @@
-# Virtual-Private-Network-Setup
+
 # Virtual Private Network Setup (VPN)<p align="center">
 <img src="https://i.imgur.com/wkFAN9F.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+<h1>Virtual Private Networking</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
 
